@@ -80,12 +80,3 @@ public class Student {
                 ']';
     }
 }
-class StudentAraylist {
-    public static void main(String[] args) {
-
-
-        System.out.println("Lua chon cua ban : ");
-        Scanner scan = new Scanner(System.in);
-        int numberSelect = scan.nextInt();
-    }
-}
